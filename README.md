@@ -5,21 +5,19 @@
 - 👯 I’m looking to collaborate in Frontend Development
 
 ## 📫 How to reach me 
-<a><img src="insta"/></a>
-<a><img src="linkedin"/></a>
-<a><img src="x"/></a>
-<a><img src=""/></a>
-
+<a href=""><img src="instagram.png" width="50"/></a>
+<span width="25"> </span>
+<a href=""><img src="twitter.png" width="50"/></a>
+<a href=""><img src="linkedin.png"/></a>
 ## CV and Resumes
 <a><img src="resume" width="50" height="50"/></a>
 
 ## Skills & Technologies
-<a><img src=""/>HTML</a>
-<a><img src=""/>CSS</a>
-<a><img src=""/>JavaScript</a>
-<a><img src=""/>Git | GitHub</a>
-<a><img src=""/>Python</a>
-<a><img src=""/>C</a>
-<a><img src=""/>C++</a>
-<a><img src=""/>Java</a>
-<a><img src=""/>ShellScripting</a>
+<a><img src="html.png" width="50"/></a><span width="25">   </span>
+<a><img src="css.png" width="50"/></a><span width="25">   </span>
+<a><img src="js.png" width="50"/></a><span width="25">   </span>
+<a><img src="git.png" width="50"/></a><span width="25">   </span><span width="25">   </span><span width="25">   </span><span width="25">   </span><span width="25">   </span>
+<a><img src="python.png" width="50"/></a><span width="25">   </span>
+<a><img src="c.png" width="50"/></a><span width="25">   </span>
+<a><img src="cpp.png" width="50"/></a><span width="25">   </span>
+<a><img src="java.png" width="50"/></a>
