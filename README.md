@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to InfiCodePlay👋
 
-<!--
-**inficodeplay/inficodeplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on to build own portfolio.
+- 🌱 I’m currently learning javaScript
+- 👯 I’m looking to collaborate in Frontend Development
 
-Here are some ideas to get you started:
+## 📫 How to reach me 
+<a><img src="insta"/></a>
+<a><img src="linkedin"/></a>
+<a><img src="x"/></a>
+<a><img src=""/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CV and Resumes
+<a><img src="resume" width="50" height="50"/></a>
+
+## Skills & Technologies
+<a><img src=""/>HTML</a>
+<a><img src=""/>CSS</a>
+<a><img src=""/>JavaScript</a>
+<a><img src=""/>Git | GitHub</a>
+<a><img src=""/>Python</a>
+<a><img src=""/>C</a>
+<a><img src=""/>C++</a>
+<a><img src=""/>Java</a>
+<a><img src=""/>ShellScripting</a>
